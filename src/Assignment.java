@@ -6,4 +6,7 @@ public class Assignment {
         System.out.println("I'm learning java");
         System.out.println("Hello Everyone");
     }
+
+    //My first code
+    //My second code
 }
